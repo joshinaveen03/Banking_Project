@@ -1,0 +1,2 @@
+Login successful, user is on the Manager's Dashboard.
+Test Passed: 'New Customer' link clicked successfully.

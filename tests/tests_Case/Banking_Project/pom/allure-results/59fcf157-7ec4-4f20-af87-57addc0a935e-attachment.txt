@@ -1,0 +1,2 @@
+Login successful, user is on the Manager's Dashboard.
+Login successful, Add Customer Details

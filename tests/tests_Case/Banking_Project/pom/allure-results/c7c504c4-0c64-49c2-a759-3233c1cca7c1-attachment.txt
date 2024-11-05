@@ -1,0 +1,30 @@
+Login successful, user is on the Manager's Dashboard.
+Test Failed: Message: invalid selector
+from javascript error: {"status":32,"value":"Unable to locate an element with the xpath expression  //a[normalize-space()='New Customer']'] because of the following error:\nSyntaxError: Failed to execute 'evaluate' on 'Document': The string ' //a[normalize-space()='New Customer']']' is not a valid XPath expression."}
+  (Session info: chrome=130.0.6723.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalid-selector-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF725173AF5+28005]
+	(No symbol) [0x00007FF7250D83F0]
+	(No symbol) [0x00007FF724F7580A]
+	(No symbol) [0x00007FF724F7C2CC]
+	(No symbol) [0x00007FF724F7E5E7]
+	(No symbol) [0x00007FF724F7E6A0]
+	(No symbol) [0x00007FF724FC54EA]
+	(No symbol) [0x00007FF724FC5D2C]
+	(No symbol) [0x00007FF72500EA97]
+	(No symbol) [0x00007FF724FEBA7F]
+	(No symbol) [0x00007FF72500B8B3]
+	(No symbol) [0x00007FF724FEB7E3]
+	(No symbol) [0x00007FF724FB75C8]
+	(No symbol) [0x00007FF724FB8731]
+	GetHandleVerifier [0x00007FF72546646D+3118813]
+	GetHandleVerifier [0x00007FF7254B6CC0+3448624]
+	GetHandleVerifier [0x00007FF7254ACF3D+3408301]
+	GetHandleVerifier [0x00007FF72523A44B+841403]
+	(No symbol) [0x00007FF7250E344F]
+	(No symbol) [0x00007FF7250DF4C4]
+	(No symbol) [0x00007FF7250DF65D]
+	(No symbol) [0x00007FF7250CEBB9]
+	BaseThreadInitThunk [0x00007FFC817C7374+20]
+	RtlUserThreadStart [0x00007FFC8281CC91+33]
+
